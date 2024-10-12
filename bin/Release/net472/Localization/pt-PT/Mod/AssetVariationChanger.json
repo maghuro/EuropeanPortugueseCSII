@@ -1,0 +1,16 @@
+{
+  "Options.SECTION[AssetVariationChanger.AssetVariationChanger.Mod]": "Asset Variation Changer",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "Variação anterior",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.PreviousVariationBinding]": "Esta tecla será atribuída para selecionar a variação de asset anterior",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "Próxima variação",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.NextVariationBinding]": "Esta tecla será atribuída para selecionar a próxima variação de asset",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "Alternar seletor de variação",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ToggleVariationChooser]": "Usa esta tecla para alternar o mod sem precisar de abrir o menu",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "Ativar seletor de variação",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.EnableVariationChooser]": "Se ativado, o mod funciona. Se desativado, o mod não terá efeito. Isto é útil se quiseres o comportamento aleatório padrão",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "Repor teclas atribuídas",
+  "Options.OPTION_DESCRIPTION[AssetVariationChanger.AssetVariationChanger.Mod.Setting.ResetBindings]": "",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/PreviousVariationBinding/binding]": "Variação de asset anterior",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/NextVariationBinding/binding]": "Próxima variação de asset",
+  "Options.OPTION[AssetVariationChanger.AssetVariationChanger.Mod/ToggleVariationChooserBinding/binding]": "Ativar/desativar seletor de variação"
+}

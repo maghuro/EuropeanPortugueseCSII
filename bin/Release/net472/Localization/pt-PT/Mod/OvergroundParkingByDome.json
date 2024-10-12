@@ -1,0 +1,10 @@
+{
+  "Assets.NAME[Dome Parking Hall 01]": "Edifício de estacionamento de superfície",
+  "Assets.DESCRIPTION[Dome Parking Hall 01]": "Um pequeno parque de estacionamento com dois pisos e capacidade para 66 veículos.",
+  "Assets.NAME[Dome Parking Hall 01 LHT]": "Edifício de estacionamento de superfície LHT",
+  "Assets.DESCRIPTION[Dome Parking Hall 01 LHT]": "Um pequeno parque de estacionamento com dois pisos e capacidade para 66 veículos.\r\nVersão para tráfego pela esquerda",
+  "Assets.UPGRADE_NAME[Dome Parking Hall 01 Floors Upgrade]": "Atualização de pisos do estacionamento 01",
+  "Assets.UPGRADE_DESCRIPTION[Dome Parking Hall 01 Floors Upgrade]": "Atualiza o parque de estacionamento com mais pisos e alcança a capacidade de 190 veículos",
+  "Assets.UPGRADE_NAME[Dome Parking Hall 01 Floors Upgrade LHT]": "Atualização de pisos do estacionamento 01 LHT",
+  "Assets.UPGRADE_DESCRIPTION[Dome Parking Hall 01 Floors Upgrade LHT]": "Atualiza o parque de estacionamento com mais pisos e alcança a capacidade de 190 veículos"
+}

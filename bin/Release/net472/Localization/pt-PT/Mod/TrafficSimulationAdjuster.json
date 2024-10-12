@@ -1,0 +1,5 @@
+{
+  "Options.SECTION[TrafficSimulationAdjuster.TrafficSimulationAdjuster.Mod]": "Traffic Simulation Adjuster",
+  "Options.OPTION[TrafficSimulationAdjuster.TrafficSimulationAdjuster.Mod.TrafficSimulationAdjusterOptions.TrafficReductionCoefficient]": "Valor de redução de tráfego",
+  "Options.OPTION_DESCRIPTION[TrafficSimulationAdjuster.TrafficSimulationAdjuster.Mod.TrafficSimulationAdjusterOptions.TrafficReductionCoefficient]": "Quantidade de redução de tráfego. O valor 4 é o valor padrão do jogo. Valores mais baixos aumentam o tráfego em cidades maiores, com impacto no desempenho. Valores mais altos fazem o oposto."
+}

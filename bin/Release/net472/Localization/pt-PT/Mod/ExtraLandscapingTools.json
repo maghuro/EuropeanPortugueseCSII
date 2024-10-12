@@ -1,0 +1,15 @@
+{
+  "Toolbar.BRUSH": "Pincel",
+  "Toolbar.BRUSH_ROTATION": "Rotação do pincel",
+  "Assets.DESCRIPTION[Ore Resource Tool]": "Ferramenta de recurso de minério",
+  "Assets.DESCRIPTION[Oil Resource Tool]": "Ferramenta de recurso de petróleo",
+  "Assets.DESCRIPTION[FertileLand Resource Tool]": "Ferramenta de recurso de terra fértil",
+  "Assets.DESCRIPTION[GroundWater Resource Tool]": "Ferramenta de recurso de água subterrânea",
+  "Options.SECTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT]": "Extra Landscaping Tools",
+  "Options.OPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedFertilityResource]": "Reabastecer recursos férteis esgotados",
+  "Options.OPTION_DESCRIPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedFertilityResource]": "Reabastece os recursos férteis esgotados no mapa inteiro.",
+  "Options.OPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOreResource]": "Reabastecer recursos de minério esgotados",
+  "Options.OPTION_DESCRIPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOreResource]": "Reabastece os recursos de minério esgotados no mapa inteiro.",
+  "Options.OPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOilResource]": "Reabastecer recursos de petróleo esgotados",
+  "Options.OPTION_DESCRIPTION[ExtraLandscapingTools.ExtraLandscapingTools.ELT.ELTSettings.ClearDepletedOilResource]": "Reabastece os recursos de petróleo esgotados no mapa inteiro."
+}

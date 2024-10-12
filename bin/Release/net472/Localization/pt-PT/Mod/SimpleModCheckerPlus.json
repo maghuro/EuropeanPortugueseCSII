@@ -1,0 +1,15 @@
+{
+  "Options.SECTION[SimpleModChecker.SimpleModCheckerPlus.Mod]": "Simple Mod Checker Plus",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ShowNotif]": "Mostrar a notificação?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ShowNotif]": "Ativa ou desativa a notificação no menu principal.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteMissing]": "Eliminação automática dos mods com CID (Identificador de conteúdo) em falta?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteMissing]": "Ativa ou desativa a eliminação automática dos mods com CID em falta.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteCorrupted]": "Eliminação automática das definições corrompidas?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DeleteCorrupted]": "Ativa ou desativa a eliminação automática das definições corrompidas.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.EnableAutoSave]": "Ativação da gravação automática em caso de crash das definições?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.EnableAutoSave]": "Ativa ou desativa a ativação automática da gravação automática em caso de reposição acidental das definições do jogo.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DisableRadio]": "Desativação automática da rádio em caso de crash das definições?",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.DisableRadio]": "Ativa ou desativa a desativação automática da rádio em caso de reposição acidental das definições do jogo.",
+  "Options.OPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ModVersion]": "Versão",
+  "Options.OPTION_DESCRIPTION[SimpleModChecker.SimpleModCheckerPlus.Mod.SimpleModCheckerSetting.ModVersion]": "Versão atual de Simple Mod Checker Plus"
+}

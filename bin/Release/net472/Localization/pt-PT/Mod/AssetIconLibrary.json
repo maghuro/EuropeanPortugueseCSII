@@ -1,0 +1,9 @@
+{
+  "Options.SECTION[AssetIconLibrary.AssetIconLibrary.Mod]": "Asset Icon Library",
+  "Options.TAB[AssetIconLibrary.AssetIconLibrary.Mod.Main]": "Principal",
+  "Options.GROUP[AssetIconLibrary.AssetIconLibrary.Mod.Settings]": "Definições",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Sobrescrever ícones existentes",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OverwriteIcons]": "Quando ativado, o Asset Icon Library irá sobrescrever ícones padrão do jogo e de outros mods, quando disponíveis.",
+  "Options.OPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Abrir pasta de miniaturas personalizadas",
+  "Options.OPTION_DESCRIPTION[AssetIconLibrary.AssetIconLibrary.Mod.Setting.OpenCustomFolders]": "Permite adicionar miniaturas personalizadas para usar em vez dos ícones padrão do jogo ou do 'Asset Icon Library'."
+}

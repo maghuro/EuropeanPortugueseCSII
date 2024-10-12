@@ -1,0 +1,20 @@
+{
+  "Assets.NAME[CarProp]": "CarProp",
+  "Assets.DESCRIPTION[CarProp]": "Um pequeno carro sem qualquer funcionalidade",
+  "Assets.NAME[StationTerminus_Metropolitan_ThreeTracks]": "StationTerminus_Metropolitan_ThreeTracks",
+  "Assets.DESCRIPTION[StationTerminus_Metropolitan_ThreeTracks]": "6 plataformas de comboio e 7 plataformas de autocarro",
+  "Assets.NAME[StationTerminus_PassThrough_FourLaneDivided]": "StationTerminus_PassThrough_FourLaneDivided",
+  "Assets.DESCRIPTION[StationTerminus_PassThrough_FourLaneDivided]": "10 plataformas de comboio, 4 vias de passagem e 6 plataformas de autocarro",
+  "Assets.NAME[StationTerminus_PassThrough_NoRoad]": "StationTerminus_PassThrough_NoRoad",
+  "Assets.DESCRIPTION[StationTerminus_PassThrough_NoRoad]": "10 plataformas de comboio, 4 vias de passagem e 6 plataformas de autocarro",
+  "Assets.NAME[StationTerminus_PassThrough_OneWay]": "StationTerminus_PassThrough_OneWay",
+  "Assets.DESCRIPTION[StationTerminus_PassThrough_OneWay]": "10 plataformas de comboio, 4 vias de passagem e 6 plataformas de autocarro com uma pequena estrada de sentido único",
+  "Assets.NAME[StationTerminus_PassThrough_SixLaneDivided]": "StationTerminus_PassThrough_SixLaneDivided",
+  "Assets.DESCRIPTION[StationTerminus_PassThrough_SixLaneDivided]": "10 plataformas de comboio, 4 vias de passagem e 6 plataformas de autocarro",
+  "Assets.NAME[StationTerminus_Metropolitan_ThreeTrack]": "StationTerminus_Metropolitan_ThreeTrack",
+  "Assets.DESCRIPTION[StationTerminus_Metropolitan_ThreeTrack]": "",
+  "Assets.NAME[StationTerminus_PassThrough_LargeRoad]": "StationTerminus_PassThrough_LargeRoad",
+  "Assets.DESCRIPTION[StationTerminus_PassThrough_LargeRoad]": "10 plataformas de comboio, 4 vias de passagem e 6 plataformas de autocarro com uma estrada larga",
+  "Assets.NAME[StationTerminus_PassThrough_MediumRoad]": "StationTerminus_PassThrough_MediumRoad",
+  "Assets.DESCRIPTION[StationTerminus_PassThrough_MediumRoad]": "10 plataformas de comboio, 4 vias de passagem e 6 plataformas de autocarro com uma estrada de dimensão média"
+}

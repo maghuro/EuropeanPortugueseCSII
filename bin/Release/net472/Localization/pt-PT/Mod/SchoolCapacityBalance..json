@@ -1,0 +1,20 @@
+{
+  "Options.SECTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod]": "School Capacity Balancer",
+  "Options.TAB[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Modify School Capacity]": "Principal",
+  "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Student Capacity]": "Capacidade de Estudantes",
+  "Options.GROUP[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Additional Options]": "Opções Adicionais",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "Escola Básica",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "Escola Secundária",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "Faculdade",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "Universidade",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ElementarySlider]": "Define a capacidade de estudantes dos edifícios de escola básica em relação à capacidade original.",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.HighSchoolSlider]": "Define a capacidade de estudantes dos edifícios de escola secundária em relação à capacidade original.",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.CollegeSlider]": "Define a capacidade de estudantes dos edifícios de faculdade em relação à capacidade original.",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.UniversitySlider]": "Define a capacidade de estudantes dos edifícios de universidade em relação à capacidade original.",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "Escalonar manutenção com a capacidade",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ScaleUpkeepWithCapacity]": "Se ativado, os custos de manutenção escolar serão ajustados de acordo com a configuração de capacidade.\nAlterar este valor requer reiniciar o jogo.",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "Repor para o original",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToVanilla]": "Repõe todas as capacidades para 100%.",
+  "Options.OPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "Repor para os valores equilibrados",
+  "Options.OPTION_DESCRIPTION[SchoolCapacityBalancer.SchoolCapacityBalancer.Mod.Setting.ResetToModDefault]": "Repõe todas as capacidades para os valores equilibrados do mod."
+}
