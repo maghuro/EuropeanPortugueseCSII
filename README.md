@@ -18,9 +18,6 @@ Este mod beta para o Cities: Skylines II traz uma tradução completa em Portugu
 ## Doações
 Se quiseres agradecer com uma doação, podes fazê-lo via Paypal.
 
-## Traduções
-Estou à procura de voluntários para ajudar a traduzir o mod para as línguas oficiais. Se estiveres interessado, visita o link do projeto no Discord: CSL2:CODEMODS -> mods-wip -> Anarchy: Translations. Traduções completas ou parciais: Espanhol, Alemão, Chinês Simplificado, Português do Brasil, Italiano, Polaco, Coreano, Russo e Francês. Vê os créditos para a lista de tradutores.
-
 ## Agradecimentos Especiais
 Quero agradecer especialmente ao **N7C**, criador da versão tailandesa deste mod, que foi incansável ao prestar suporte técnico e orientação. O Português de Portugal é muitas vezes uma das últimas línguas lembradas nas traduções de jogos, quando é lembrado. Mas, com o apoio do N7C, conseguimos fazer com que o Português Europeu estivesse presente desta vez.
 
@@ -119,9 +116,6 @@ This beta mod for Cities: Skylines II brings a complete translation into Europea
 
 ## Donations
 If you'd like to say thank you with a donation, you can do so via Paypal.
-
-## Translations
-I am looking for volunteers to help translate the mod into official languages. If you are interested, visit the project link on Discord: CSL2:CODEMODS -> mods-wip -> Anarchy: Translations. Full or partial translations: Spanish, German, Simplified Chinese, Brazilian Portuguese, Italian, Polish, Korean, Russian, and French. See credits for the list of translators.
 
 ## Special Thanks
 I would like to give a special thanks to **N7C**, creator of the Thai version of this mod, who tirelessly provided technical support and guidance. European Portuguese is often one of the last languages remembered in game translations, if it is remembered at all. But with N7C's support, we managed to make European Portuguese present this time.
