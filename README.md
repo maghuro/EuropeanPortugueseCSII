@@ -12,8 +12,6 @@ Este mod beta para o Cities: Skylines II traz uma tradução completa em Portugu
 - **Tradução Completa**: Português de Portugal, garantindo adaptação cultural e facilidade de compreensão.
 - **Mods Paradox Traduzidos**: Mais de 65 mods (vê a lista abaixo) traduzidos para consistência.
 - **Integração Intuitiva**: Sem comprometer a aparência ou a jogabilidade.
-- **Colaboração Comunitária**: Atualizações constantes com feedback da comunidade.
-- **Elementos Traduzidos**: Garantindo uma experiência mais rica em Português de Portugal.
 
 ## Doações
 Se quiseres agradecer com uma doação, podes fazê-lo via Paypal.
@@ -111,8 +109,6 @@ This beta mod for Cities: Skylines II brings a complete translation into Europea
 - **Complete Translation**: European Portuguese, ensuring cultural adaptation and ease of understanding.
 - **Translated Paradox Mods**: More than 65 mods (see the list below) translated for consistency.
 - **Intuitive Integration**: Without compromising appearance or gameplay.
-- **Community Collaboration**: Constant updates with community feedback.
-- **Translated Elements**: Ensuring a richer experience in European Portuguese.
 
 ## Donations
 If you'd like to say thank you with a donation, you can do so via Paypal.
