@@ -1,4 +1,4 @@
-### ENGLISH BEYOND
+(### ENGLISH BELOW) 
 # Localização em Português de Portugal para Cities: Skylines II
 
 Este mod beta para o Cities: Skylines II traz uma tradução completa em Português de Portugal, especialmente adaptada para melhorar a experiência dos jogadores portugueses. O objetivo é garantir uma adaptação cultural precisa, utilizando terminologia específica do urbanismo e proporcionando uma experiência de jogo mais divertida e imersiva. Desenvolvi este projeto de forma independente, assegurando uma tradução de elevada qualidade e culturalmente adequada. Se quiseres colaborar na melhoria e atualização da tradução, entra em contacto!
