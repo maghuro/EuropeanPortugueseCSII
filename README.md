@@ -95,4 +95,4 @@ Quero agradecer especialmente ao **N7C**, criador da versão tailandesa deste mo
 ## Suporte
 Se precisares de suporte ou tiveres dúvidas, podes contactar-me através dos canais da comunidade **Cities: Skylines Modding** no Discord.
 
-Espero que este mod te proporcione uma experiência de jogo melhorada em Português de Portugal! A tua opinião é importante, então sente-te à vontade para compartilhar feedback ou sugerir melhorias.
+Espero que este mod te proporcione uma experiência de jogo melhorada em Português de Portugal! A tua opinião é importante, então sente-te à vontade para partilhar feedback ou sugerir melhorias.
